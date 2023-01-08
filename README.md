@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, You can call Me, Prathmesh Bankar</h1>
+<h1 align="center">Hi 👋, I'm Prathmesh Bankar</h1>
 <h3 align="center">A passionate software developer from Pune, India.</h3>
 
 - 🔭 I’m currently working on **Password Manager using node.js**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prathmeshbankar03@gmail.com**
 
-- ⚡ Fun fact **I Think I work better in competitive environment**
+- ⚡ Fun fact **A good programmer is someone who always looks both ways before crossing a one-way street.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
