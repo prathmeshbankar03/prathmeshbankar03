@@ -157,5 +157,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbankar03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
+<br>
+
+<div align="center">
+  <details>
+    <summary>🤫👀 A hidden Secret about the programming underworld</summary>
+    <p><strong>Get Rick Rickrolled !!! 😂</strong></p>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
+</details>
+</div>
+
+
+
 
 
