@@ -117,17 +117,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <a href="https://github.com/prathmeshbankar03" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <a href="https://twitter.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <a href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <a href="https://npmjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /></a>
 </div>
 
 ###
