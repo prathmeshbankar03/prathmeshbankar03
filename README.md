@@ -32,7 +32,8 @@
 
 ###
 
-<h4 align="left">📚 I'm currently learning Redux, ElectronJS, MUI v5 <br>🔭 I’m currently working on Fullstack eCommerce Platform & DSA<br>🌱 I’m currently learning MERN Stack & Basic DevOps<br>🗣️ I can Speak English, Hindi, Marathi<br>🎲 Fun fact: 0.1 + 0.2 != 0.3</h4>
+<h4 align="left">📚 I'm currently learning... <strong>Redux, ElectronJS, MUI</strong> v5 <br>🔭 I’m currently working on... <strong>Fullstack eCommerce Platform & DSA</strong><br>🗣️ I can Speak <strong>English, Hindi, Marathi</strong><br>🎲 Fun fact: <strong>0.1 + 0.2 != 0.3</strong></h4>
+
 
 ###
 
@@ -102,37 +103,31 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
-
-<h2 align="left"></h2>
-
-###
-
 <h2 align="left">🔗 Connect with me</h2>
 
 ###
 
-<h4 align="left">✉️ Email: prathmeshbankar03@gmail.com</h4>
+<h4 align="left">✉️ Email: <a href="mailto:prathmeshbankar03@gmail.com">prathmeshbankar03@gmail.com</a></h4>
 
 ###
 
 <div align="left">
   <a href="https://github.com/prathmeshbankar03" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a>
   <img width="12" />
-  <a href="https://twitter.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" /></a>
+  <a href="https://twitter.com/SenpiDev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" /></a>
   <img width="12" />
-  <a href="https://linkedin.com" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in/prathmeshbankar" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" /></a>
   <img width="12" />
-  <a href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
+  <a href="https://discordapp.com/users/644409005871202307" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" /></a>
   <img width="12" />
-  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
+  <a href="https://hub.docker.com/u/prathmeshbankar03" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
   <img width="12" />
-  <a href="https://npmjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/20d7f24c-ff3b-451c-ad27-dc824ad02e48" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
+  <img width="12" />
+  <a href="https://www.hackerrank.com/profile/prathmeshbankar1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40" alt="googlecloud logo" /></a>
+  <img width="12" />
+  <a href="https://www.npmjs.com/~prathmeshbankar03" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /></a>
 </div>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
