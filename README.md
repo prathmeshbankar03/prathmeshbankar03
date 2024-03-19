@@ -133,8 +133,13 @@
 
 <br clear="both">
 
+<h2 align="left">🧩 justSome.random() GIFs</h2>
+
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/fm4u-L3RJjMAAAAC/cat-thousand-yard-stare-thousand-yard-stare.gif"  />
+  <img height="200" src="https://media.tenor.com/KJXzA3KIplUAAAAM/aizen.gif"  />
+  <img height="200" src="https://media.tenor.com/0wjoGzGvGFEAAAAM/nerd-radar-nerd.gif"  />
+  
 </div>
 
 ###
