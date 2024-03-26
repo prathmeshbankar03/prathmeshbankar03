@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/prathmeshbankar" target="_blank">
   <img height="200" src="https://i.ibb.co/sPWSgRq/1687504500996.jpg"  />
+  </a>
 </div>
 
 ###
