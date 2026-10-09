@@ -137,12 +137,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="100" src="https://qph.cf2.quoracdn.net/main-qimg-d4c33a4da085d164df1a48064814c0c6"  />
-</div>
-
 ###
 
 ## 📊 GitHub stats:
