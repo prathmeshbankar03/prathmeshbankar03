@@ -135,15 +135,6 @@
 
 <br clear="both">
 
-<h2 align="left">🧩 justSome.random() GIFs</h2>
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/fm4u-L3RJjMAAAAC/cat-thousand-yard-stare-thousand-yard-stare.gif"  />
-  <img height="200" src="https://media.tenor.com/KJXzA3KIplUAAAAM/aizen.gif"  />
-  <img height="200" src="https://media.tenor.com/0wjoGzGvGFEAAAAM/nerd-radar-nerd.gif"  />
-  
-</div>
-
 ###
 
 <br clear="both">
@@ -165,16 +156,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <details>
-    <summary>🤫👀 A hidden Secret about the programming underworld</summary>
-    <p><strong>Get Rick Rickrolled !!! 😂</strong></p>
-    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
-    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
-    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
-</details>
-</div>
 
 
 
